@@ -12,6 +12,8 @@ The goal isn't just to learn more concepts, but to understand them deeply, write
 | Day 02 | Perceptrons, MLPs, Loss & Activation Functions, Gradient Descent, Forward & Backward Pass | ✅ |
 | Day 03 | Built and trained an MLP classifier on FashionMNIST using PyTorch, covering data loading, preprocessing, DataLoaders, training, and validation | ✅ |
 | Day 04 | Revised CNN fundamentals, including image representation, convolution, filters, kernels, padding, pooling, flattening, parameter calculations, and image classification. | ✅  |
+| Day 05 | Built and trained a CNN image classifier on CIFAR-10 using PyTorch, achieving ~69% initial test accuracy. | ✅  |
+| Day 06 | Studied the evolution of CNN architectures from AlexNet to ResNet, along with feature maps, vanishing gradients, pre-training, and fine-tuning. | ✅  |
 | Day 100 | Final Project / Reflection | ⏳ |
 
 ## 🛠️ Technologies

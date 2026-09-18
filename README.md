@@ -15,6 +15,7 @@ The goal isn't just to learn more concepts, but to understand them deeply, write
 | Day 05 | Built and trained a CNN image classifier on CIFAR-10 using PyTorch, achieving ~69% initial test accuracy. | ✅  |
 | Day 06 | Studied the evolution of CNN architectures from AlexNet to ResNet, along with feature maps, vanishing gradients, pre-training, and fine-tuning. | ✅  |
 | Day 07 | Fine-tuned a pre-trained EfficientNet-B0 for 3-class food image classification using PyTorch, achieving 88% test accuracy. | ✅  |
+| Day 08 | neural network optimization techniques including Momentum, AdaGrad, RMSProp, Adam, learning-rate scheduling,bias correction also explored cloud computing fundamentals and AWS AI services. | ✅ |
 | Day 100 | Final Project / Reflection | ⏳ |
 
 ## 🛠️ Technologies

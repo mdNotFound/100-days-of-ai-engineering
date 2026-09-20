@@ -17,6 +17,7 @@ The goal isn't just to learn more concepts, but to understand them deeply, write
 | Day 07 | Fine-tuned a pre-trained EfficientNet-B0 for 3-class food image classification using PyTorch, achieving 88% test accuracy. | ✅  |
 | Day 08 | neural network optimization techniques including Momentum, AdaGrad, RMSProp, Adam, learning-rate scheduling,bias correction also explored cloud computing fundamentals and AWS AI services. | ✅ |
 | Day 08 | Implemented a Mini U-Net for binary image segmentation on the Oxford-IIIT Pet dataset using PyTorch, with BCE + Dice Loss and Dice coefficient evaluation. | ✅  |
+| Day 09 | Studied GAN fundamentals, including generative vs. discriminative models, generator-discriminator architecture, noise distributions, adversarial loss functions, and training equilibrium. | ✅  |
 | Day 100 | Final Project / Reflection | ⏳ |
 
 ## 🛠️ Technologies

@@ -20,6 +20,7 @@ The goal isn't just to learn more concepts, but to understand them deeply, write
 | Day 10 | Studied GAN fundamentals, including generative vs discriminative models, generator-discriminator architecture, noise distributions, adversarial loss functions, and training equilibrium. | ✅ |
 | Day 11 | Implemented and trained a fully connected GAN on FashionMNIST using PyTorch, with Generator-Discriminator adversarial training and Adam optimization. | ✅  |
 | Day 12 | language modeling and RNN fundamentals, including next-word prediction, conditional probabilities, shared weights, parameter calculations, Cross-Entropy loss, and Backpropagation Through Time (BPTT). | ✅  |
+| Day 13 | Implemented a PyTorch RNN to predict stock closing prices using historical data; achieved a test R² of 0.9200.(RNN Time-Series Forecasting) | ✅  |
 | Day 100 | Final Project / Reflection | ⏳ |
 
 ## 🛠️ Technologies

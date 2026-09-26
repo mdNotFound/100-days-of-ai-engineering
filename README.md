@@ -22,7 +22,7 @@ The goal isn't just to learn more concepts, but to understand them deeply, write
 | Day 12 | language modeling and RNN fundamentals, including next-word prediction, conditional probabilities, shared weights, parameter calculations, Cross-Entropy loss, and Backpropagation Through Time (BPTT). | ✅  |
 | Day 13 | Implemented a PyTorch RNN to predict stock closing prices using historical data; achieved a test R² of 0.9200.(RNN Time-Series Forecasting) | ✅  |
 | Day 14 | Deep Learning Theory, Java & DSA | Read half of Chapter 1 of *Deep Learning*; studied Java for university exams and solved 2 easy LeetCode problems. | ✅  |
-| Day 15 | Neural Networks, Java, DSA & Data Competition | Completed Chapter 1 of Michael Nielsen's *Neural Networks and Deep Learning*, studied Java, solved 1–2 LeetCode problems, and participated in a data science competition using three notebooks in parallel. | ✅  |
+| Day 15 | Neural Networks, Java, DSA & Data Competition Completed Chapter 1 of Michael Nielsen's *Neural Networks and Deep Learning* studied Java, solved 1–2 LeetCode problems, and participated in a data science competition using three notebooks in parallel. | ✅  |
 | Day 16 | AI Ethics, Safety & Alignment,Explored AI misuse, bias, deepfakes, hallucinations, AGI, alignment,AI safety, and real-world AI case studies also studied Java and PyTorch documentation. | ✅  |
 | Day 100 | Final Project / Reflection | ⏳ |
 
